@@ -82,6 +82,6 @@ in <b>mobile application development</b>.
 
 <p align="center">
 🚀 Improving my skills in mobile development <br/>
-📱 Building real-world apps with React Native & Android <br/>
+📱 Building real-world apps with React Native <br/>
 🎓 Actively looking for a <b>PFE internship</b>
 </p>
